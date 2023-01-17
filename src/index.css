@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(0deg, purple 0%,rgba(1,1,1) 80%);
+  
+}
+
